@@ -145,6 +145,7 @@ header_pages:
    - home.html
    - about.html
    - archives.html
+   - index.html
 
 # Page default value
 defaults:
