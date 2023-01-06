@@ -143,10 +143,10 @@ code_badge:
 # this and add the path to the pages in order as they should show up
 header_pages:
    - index.html
+   - about.html
    - archives.html
    - categories.html
    - tags.html
-   - about.md
 
 # Page default value
 defaults:
