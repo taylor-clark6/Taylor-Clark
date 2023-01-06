@@ -149,11 +149,11 @@ header_pages:
    - about.md
 
 # Page default value
-#defaults:
-home:
-     heading: "Taylor Clark"
-     subheading: "Honors Computer Science Student at Fordham University"
-     banner: "https://rise-media.com/wp-content/uploads/tech-banner.jpg"
+defaults:
+- home:
+  - heading: "Taylor Clark"
+  - subheading: "Honors Computer Science Student at Fordham University"
+  - banner: "https://rise-media.com/wp-content/uploads/tech-banner.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
