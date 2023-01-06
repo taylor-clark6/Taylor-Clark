@@ -103,20 +103,20 @@ translate_langs:
 # Default theme colors as below:
 # coolblack: #090a0b
 # spacegrey: #353535
-# snowwhite: #ffffff
+snowwhite: "#ffffff"
 #
-# theme_color: snowwhite
+theme_color: snowwhite
 #
 # Custom color as below:
 # theme_color: "#882250"
 
 # You can choose a brand color
 # Default brand colors as below:
-# orangered: #ff5100
+orangered: "#ff5100"
 # greatgold: #f2cb05
 # greenblue: #389092
 #
-# brand_color: orangered
+brand_color: orangered
 #
 # Custom color as below:
 # brand_color: "#1a8e42"
@@ -132,31 +132,31 @@ translate_langs:
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-# night_mode: "auto"
+night_mode: "manual"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
-# code_badge:
-#   enabled: "true"
-#   color: "#fff"
-#   background_color: "#ff4e00"
-#   text_transform: "uppercase"  # ("uppercase", "lowercase", "capitalize")
+code_badge:
+  enabled: "true"
+  color: "#fff"
+  background_color: "#ff4e00"
+  text_transform: "uppercase"  # ("uppercase", "lowercase", "capitalize")
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
-#   - index.html
-#   - archives.html
-#   - categories.html
-#   - tags.html
-#   - about.md
+ header_pages:
+   - index.html
+   - archives.html
+   - categories.html
+   - tags.html
+   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+ defaults:
+   home:
+     heading: "Taylor Clark"
+     subheading: "Honors Computer Science Student at Fordham University"
+     banner: "https://rise-media.com/wp-content/uploads/tech-banner.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
@@ -186,7 +186,7 @@ translate_langs:
 
 # Gitment comments
 # gitment:
-#   username: "Your GitHub username"
+#   username: "Your Username"
 #   repo: "The repo to store comments"
 #   client_id: "Your client ID"
 #   client_secret: "Your client secret"
