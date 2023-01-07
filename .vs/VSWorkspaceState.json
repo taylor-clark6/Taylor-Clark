@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\images",
+    "\\assets\\images\\banners",
+    "\\assets\\js"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
