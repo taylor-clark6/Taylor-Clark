@@ -1,6 +1,1 @@
-layout: post
-title: My Rock Paper Scissors Project
-subtitle: A Rock, Paper, Scissors game I made using JavaScript!
-author: Taylor Clark
-
-## Play my Rock, Paper, Scissors game here! (h3)
+## Play my Rock, Paper, Scissors game <a href=https://codehs.com/sandbox/taylormichele/rock-paper-scissors/run>here!</a>
