@@ -32,7 +32,7 @@ site.author: taylor-clark6
 # You can use any html code, currently below placeholders are available:
 current year: {currentYear}
 author: {author} 
-copyright: (c) - Taylor Clark
+copyright: (c) - <a href='https://github.com/taylor-clark6'>Taylor Clark</a>
 # * copyleft: (cleft)
 # * sound recording copyright: (p) - ℗
 #
