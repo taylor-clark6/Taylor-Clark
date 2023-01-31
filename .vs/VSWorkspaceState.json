@@ -6,8 +6,9 @@
     "\\assets\\images\\banners",
     "\\assets\\js",
     "\\_includes",
+    "\\_layouts",
     "\\_posts"
   ],
-  "SelectedNode": "\\about.html",
+  "SelectedNode": "\\_includes\\custom-head.html",
   "PreviewInSolutionExplorer": false
 }
