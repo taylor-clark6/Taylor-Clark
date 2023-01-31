@@ -43,7 +43,7 @@ copyright: (c) - <a href='https://github.com/taylor-clark6'>Taylor Clark</a>
 site.copyright: "Copyright (c) {currentYear} <a href='https://github.com/taylor-clark6'>{author}</a>"
 
 description: website
-baseurl: "/Taylor Clark" # the subpath of your site, e.g. /blog
+baseurl: "/MyWebsite" # the subpath of your site, e.g. /blog
 url: https://taylor-clark6.github.io # the base hostname & protocol for your site
 #favicon: "" # the favicon for your site
 
