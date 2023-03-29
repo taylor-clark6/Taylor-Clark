@@ -2,7 +2,6 @@
 layout: post
 title: "Babel NYC Project"
 ---
-##test
 
 <html>
 <body>
