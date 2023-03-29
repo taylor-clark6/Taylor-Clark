@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Babel NYC Project"
+---
+
 <html>
 <body>
   <h2>View my Babel NYC website <a href="https://taylor-clark6.github.io/BabelNYC/">here!</a></h2>
