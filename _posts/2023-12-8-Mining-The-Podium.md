@@ -7,6 +7,6 @@
   binarization. For the model I implemented the classification methods of decision trees and random forest, as well 
   as regression. I created this project using Python Scikit Learn. I learned so much about data mining and Python while working 
   on this project, and now I can&apos;t wait for the next one!!</p>
-  <embed src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/MiningThePodium.docx.pdf" width="800px" height="2100px" />
+  <embed src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/MiningThePodium.docx.pdf?dl=0" width="800px" height="2100px" />
 </body>
 </html>
