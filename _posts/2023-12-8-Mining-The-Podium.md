@@ -8,5 +8,9 @@
   as regression. I created this project using Python Scikit Learn. I learned so much about data mining and Python while working 
   on this project, and now I can&apos;t wait for the next one!!</p>
   <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage1.jpg">
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage2.jpg">
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage3.jpg">
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage4.jpg">
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage5.jpg">
 </body>
 </html>
