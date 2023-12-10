@@ -6,9 +6,10 @@
     "\\assets\\images\\banners",
     "\\assets\\js",
     "\\_includes",
+    "\\_includes\\views",
     "\\_layouts",
     "\\_posts"
   ],
-  "SelectedNode": "\\about.html",
+  "SelectedNode": "\\assets\\images",
   "PreviewInSolutionExplorer": false
 }
