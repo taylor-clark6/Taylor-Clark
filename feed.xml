@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://taylor-clark6.github.io/jekyll-theme-yat/feed.xml" rel="self" type="application/atom+xml" /><link href="https://taylor-clark6.github.io/jekyll-theme-yat/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-10T19:19:53+00:00</updated><id>https://taylor-clark6.github.io/jekyll-theme-yat/feed.xml</id><subtitle>website</subtitle><author><name>{&quot;author&quot;=&gt;nil}</name></author><entry><title type="html">Mining The Podium</title><link href="https://taylor-clark6.github.io/jekyll-theme-yat/2023/12/08/Mining-The-Podium.html" rel="alternate" type="text/html" title="Mining The Podium" /><published>2023-12-08T00:00:00+00:00</published><updated>2023-12-08T00:00:00+00:00</updated><id>https://taylor-clark6.github.io/jekyll-theme-yat/2023/12/08/Mining-The-Podium</id><content type="html" xml:base="https://taylor-clark6.github.io/jekyll-theme-yat/2023/12/08/Mining-The-Podium.html"><![CDATA[<html>
+<body>
+  <p>For my Data Mining class this semester, our final project was to design and develop a research project implementing
+  different data mining strategies we learned about throughout the semester and present our results in an IEEE standard
+  research paper. My friends and I really enjoy watching Formula 1 together, so I decided to base my project on predicting
+  Formula 1 race results. In this project I explored different data preprocessing techniques such as discretization and 
+  binarization. For the model I implemented the classification methods of decision trees and random forest, as well 
+  as regression. I created this project using Python Scikit Learn. I learned so much about data mining and Python while working 
+  on this project, and now I can&apos;t wait for the next one!!</p>
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage1.jpg" />
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage2.jpg" />
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage3.jpg" />
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage4.jpg" />
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage52.jpg" />
+</body>
+</html>]]></content><author><name>{&quot;author&quot;=&gt;nil}</name></author><summary type="html"><![CDATA[For my Data Mining class this semester, our final project was to design and develop a research project implementing different data mining strategies we learned about throughout the semester and present our results in an IEEE standard research paper. My friends and I really enjoy watching Formula 1 together, so I decided to base my project on predicting Formula 1 race results. In this project I explored different data preprocessing techniques such as discretization and binarization. For the model I implemented the classification methods of decision trees and random forest, as well as regression. I created this project using Python Scikit Learn. I learned so much about data mining and Python while working on this project, and now I can&apos;t wait for the next one!!]]></summary></entry><entry><title type="html">Babel Nyc Project</title><link href="https://taylor-clark6.github.io/jekyll-theme-yat/2023/03/29/Babel-NYC-Project.html" rel="alternate" type="text/html" title="Babel Nyc Project" /><published>2023-03-29T00:00:00+00:00</published><updated>2023-03-29T00:00:00+00:00</updated><id>https://taylor-clark6.github.io/jekyll-theme-yat/2023/03/29/Babel-NYC-Project</id><content type="html" xml:base="https://taylor-clark6.github.io/jekyll-theme-yat/2023/03/29/Babel-NYC-Project.html"><![CDATA[<html>
+<body>
+  <h2>View my Babel NYC website <a href="https://taylor-clark6.github.io/BabelNYC/">here!</a></h2>
+  <p>In my honors Sacred Texts class, we were given the assignment to express some aspect of the positive, 
+  ambiguous, or negative dimensions of hospitality using the creative medium of our choice. I decided to create 
+  a photo gallery website to combine my love of compter science with what I had learned in Sacred Texts. My goal was 
+  to compare New York City to the city of Babel in Genesis 11 and show how language differences can foster community and 
+  hospitality rather than disconnect. I really enjoyed having creative freedom for this project and getting to use 
+  my programming skills even though this was not a computer science class!</p>
+</body>
+</html>]]></content><author><name>{&quot;author&quot;=&gt;nil}</name></author><summary type="html"><![CDATA[View my Babel NYC website here! In my honors Sacred Texts class, we were given the assignment to express some aspect of the positive, ambiguous, or negative dimensions of hospitality using the creative medium of our choice. I decided to create a photo gallery website to combine my love of compter science with what I had learned in Sacred Texts. My goal was to compare New York City to the city of Babel in Genesis 11 and show how language differences can foster community and hospitality rather than disconnect. I really enjoyed having creative freedom for this project and getting to use my programming skills even though this was not a computer science class!]]></summary></entry><entry><title type="html">My Rock Paper Scissors Program</title><link href="https://taylor-clark6.github.io/jekyll-theme-yat/2023/01/06/My-Rock-Paper-Scissors-Program.html" rel="alternate" type="text/html" title="My Rock Paper Scissors Program" /><published>2023-01-06T00:00:00+00:00</published><updated>2023-01-06T00:00:00+00:00</updated><id>https://taylor-clark6.github.io/jekyll-theme-yat/2023/01/06/My-Rock-Paper-Scissors-Program</id><content type="html" xml:base="https://taylor-clark6.github.io/jekyll-theme-yat/2023/01/06/My-Rock-Paper-Scissors-Program.html"><![CDATA[<html>
+<body>
+  <h2>Play my Rock, Paper, Scissors game <a href="https://codehs.com/sandbox/taylormichele/rock-paper-scissors/run">here!</a></h2>
+  <p>This project was made by me using JavaScript!</p>
+  <p>**Note: This project is not compatible with virtual keyboards**</p>
+</body>
+</html>
+<p><img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/RPS1.png" alt="Rock, Paper, Scissors game start page" /></p>
+
+<p><img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/RPS2.png" alt="Rock, Paper, Scissors game demo" /></p>]]></content><author><name>{&quot;author&quot;=&gt;nil}</name></author><summary type="html"><![CDATA[Play my Rock, Paper, Scissors game here! This project was made by me using JavaScript! **Note: This project is not compatible with virtual keyboards**]]></summary></entry></feed>

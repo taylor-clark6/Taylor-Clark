@@ -1,0 +1,1 @@
+Sitemap: https://taylor-clark6.github.io/jekyll-theme-yat/sitemap.xml
