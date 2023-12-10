@@ -11,6 +11,6 @@
   <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage2.jpg">
   <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage3.jpg">
   <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage4.jpg">
-  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage2-5.jpg">
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage52.jpg">
 </body>
 </html>
