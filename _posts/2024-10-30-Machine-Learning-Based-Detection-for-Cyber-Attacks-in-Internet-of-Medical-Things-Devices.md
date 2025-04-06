@@ -1,6 +1,6 @@
 <html>
 <body>
-  <p>My mmachine learning skills continue to grow! During summer 2024, I researched machine learning based detection 
+  <p>My machine learning skills continue to grow! During summer 2024, I researched machine learning based detection 
     for cyber attacks in IoMT devices. I noticed a problem in the healthcare industry, the vulnerability of IoMT devices 
     to cyber attacks and the devastating consequences of such attacks, and I sought to use technology to solve it. I 
     developed the project in Jupyter Notebook using Python and libraries such as Matplotlib, Numpy, Pandas, and Scikit 
