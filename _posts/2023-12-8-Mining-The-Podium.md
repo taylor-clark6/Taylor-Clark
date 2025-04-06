@@ -1,6 +1,6 @@
 <html>
 <body>
-  <p>For my Data Mining class this semester, our final project was to design and develop a research project implementing
+  <p>For my Fall 2023 Data Mining class, our final project was to design and develop a research project implementing
   different data mining strategies we learned about throughout the semester and present our results in an IEEE standard
   research paper. My friends and I really enjoy watching Formula 1 together, so I decided to base my project on predicting
   Formula 1 race results. In this project I explored different data preprocessing techniques such as discretization and 
