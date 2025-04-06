@@ -8,12 +8,12 @@
     from Isolation Forests to Neural Networks, and my greatest success was training a Decision Tree model to detect ARP 
     Spoofing attacks on Wifi and MQTT IoMT devices, which was 97% accurate in its detection. I presented my research at 
     the IEEE MIT Undergraduate Research Technology Conference (URTC) in October, and my research paper will be published 
-    in the IEEE Digital Xplore Library this year. I am also a finalist for the National Center for Women & Information 
-    Technology (NCWIT) Aspirations in Computing Collegiate Award!</p>
-  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage1.jpg">
-  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage2.jpg">
-  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage3.jpg">
-  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage4.jpg">
-  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/dmpage52.jpg">
+    in the IEEE Digital Xplore Library this year. I am also a finalist for the <a href="https://www.aspirations.org/people/taylor-c/148030">National 
+    Center for Women & Information Technology (NCWIT) Aspirations in Computing Collegiate Award!</a></p>
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/IoMTPage1.jpg">
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/IoMTPage2.jpg">
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/IoMTPage3.jpg">
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/IoMTPage4.jpg">
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/IoMTPage5.jpg">
 </body>
 </html>
