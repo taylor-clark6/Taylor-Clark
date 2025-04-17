@@ -7,8 +7,9 @@
     Learn. I learned a lot about how different machine learning models work and which cases they are best suited for, 
     from Isolation Forests to Neural Networks, and my greatest success was training a Decision Tree model to detect ARP 
     Spoofing attacks on Wifi and MQTT IoMT devices, which was 97% accurate in its detection. I presented my research at 
-    the IEEE MIT Undergraduate Research Technology Conference (URTC) in October, and my research paper will be published 
-    in the IEEE Digital Xplore Library this year. I am also a finalist for the <a href="https://www.aspirations.org/people/taylor-c/148030">National 
+    the IEEE MIT Undergraduate Research Technology Conference (URTC) in October, and my research paper is published 
+    in the IEEE Digital Xplore Library (<a href="https://xplorestaging.ieee.org/document/10937650">check it out here!</a>). 
+    I am also a finalist for the <a href="https://www.aspirations.org/people/taylor-c/148030">National 
     Center for Women & Information Technology (NCWIT) Aspirations in Computing Collegiate Award!</a></p>
   <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/IoMTPage1.jpg">
   <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/IoMTPage2.jpg">
