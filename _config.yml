@@ -151,7 +151,7 @@ header_pages:
 defaults:
 - home:
   - heading: "Taylor Clark"
-  - subheading: "Honors Computer Science Student at Fordham University"
+  - subheading: "M.S. Data Science Candidate at Fordham University"
   - banner: "/assets/images/banners/Banner.jpeg"
 
 # Banner default settings
