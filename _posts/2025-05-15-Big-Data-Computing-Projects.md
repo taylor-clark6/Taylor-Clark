@@ -1,6 +1,5 @@
 <html>
 <body>
-  <h2>Big Data Computing Projects</h2>
   <p>
     This post highlights a series of big data analytics and machine learning projects I developed using Apache Spark and PySpark. 
     The NBA Shot Log and NYC Parking Violations projects I originally created using Hadoop, and then translated into Spark.
