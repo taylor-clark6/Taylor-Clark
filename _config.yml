@@ -151,7 +151,7 @@ header_pages:
 defaults:
 - home:
   - heading: "Taylor Clark"
-  - subheading: "MS Data Science Candidate at Fordham University"
+  - subheading: "MS Business Analytics Candidate at Fordham University Gabelli School of Business"
   - banner: "/assets/images/banners/Banner.jpeg"
 
 # Banner default settings
