@@ -24,6 +24,9 @@
     <li>Showed that increasing CTR alone does not always lead to higher profitability</li>
     <li>Provided a clear framework for optimizing marketing spend and performance</li>
   </ul>
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/airFrance1.jpg">
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/airFrance2.jpg">
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/airFrance3.jpg">
 
   <h3>Tools & Technologies</h3>
   <ul>
