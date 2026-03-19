@@ -27,6 +27,6 @@
   </ul>
 
   You can view the source code and explore this project in more detail  
-    <a href="[https://github.com/taylor-clark6](https://github.com/taylor-clark6/Franchise-Media-Success-Analysis-Movie-Revenue-Prediction-)">here</a>!
+    <a href="https://github.com/taylor-clark6/Franchise-Media-Success-Analysis-Movie-Revenue-Prediction-">here</a>!
 </body>
 </html>
