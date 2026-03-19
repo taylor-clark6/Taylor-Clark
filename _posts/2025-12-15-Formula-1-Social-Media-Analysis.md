@@ -38,3 +38,6 @@
     <li>VADER Sentiment Analysis</li>
     <li>Matplotlib</li>
   </ul>
+  
+You can view the source code and explore this project in more detail  
+    <a href="https://github.com/taylor-clark6/Formula-1-Social-Media-Analysis">here</a>!
