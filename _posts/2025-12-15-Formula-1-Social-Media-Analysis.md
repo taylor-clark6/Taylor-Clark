@@ -29,6 +29,7 @@
     <li>Posts about drama, incidents, and controversy generate the most interaction</li>
     <li>Fan sentiment has only a weak relationship with actual driver success</li>
   </ul>
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/f1-vis.jpg">
 
   <h3>Tools & Technologies</h3>
   <ul>
