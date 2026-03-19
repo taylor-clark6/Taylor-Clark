@@ -1,4 +1,4 @@
-<h2>Formula 1 Social Media Analysis (Reddit Focus)</h2>
+<h2>Formula 1 Social Media Analysis</h2>
 
   <h3>Overview</h3>
   <p>
