@@ -1,6 +1,4 @@
-<h2>Witness Byzantine Fault Tolerance for Multi-Robot Navigation</h2>
-
-  <h3>Overview</h3>
+<h3>Overview</h3>
   <p>
     This research paper, published in the proceedings of <strong>SciTePress</strong>, introduces a novel
     consensus protocol designed for decentralized robotic systems operating in GPS-denied environments.
