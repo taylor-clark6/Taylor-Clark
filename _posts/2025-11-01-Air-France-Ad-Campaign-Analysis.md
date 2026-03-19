@@ -34,3 +34,5 @@
     <li>Python (data analysis)</li>
     <li>Financial modeling & scenario analysis</li>
   </ul>
+
+You can view the source code and explore this project in more detail <a href="https://github.com/taylor-clark6/Air-France-Ad-Campaign-Analysis">here</a>!
