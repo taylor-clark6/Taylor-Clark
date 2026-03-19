@@ -51,8 +51,8 @@
   </p>
 
   <p>
-    The research highlights current limitations in detecting natural landmarks—features not specifically designed
-    for robotic navigation—despite advances in computer vision. Reliable and fast landmark recognition remains a
+    The research highlights current limitations in detecting natural landmarks (features not specifically designed
+    for robotic navigation) despite advances in computer vision. Reliable and fast landmark recognition remains a
     key challenge in real-world applications.
   </p>
 
