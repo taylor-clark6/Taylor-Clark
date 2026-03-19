@@ -12,6 +12,7 @@
     <li>Engineered features including release date transformations and multi-label genre encoding</li>
     <li>Built and evaluated Linear Regression, Random Forest, and Logistic Regression models</li>
   </ul>
+  <img src="https://raw.githubusercontent.com/taylor-clark6/MyWebsite/master/assets/images/banners/movie-vis.jpg">
 
   <h3>Results</h3>
   <ul>
